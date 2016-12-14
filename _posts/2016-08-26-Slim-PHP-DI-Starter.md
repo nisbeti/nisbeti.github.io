@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: Slim PHP-DI Starter
+date: 2016-08-26
 ---
 
 # slim-phpdi-starter
