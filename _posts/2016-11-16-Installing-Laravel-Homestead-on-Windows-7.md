@@ -1,6 +1,6 @@
 ---
-layout:default
-title:Installing Laravel Homestead on Windows 7
+layout: default
+title: Installing Laravel Homestead on Windows 7
 ---
 Just following the <a href="https://laravel.com/docs/5.3/homestead" target="_blank">Laravel Homestead Installation Instructions</a> will not be enough, if using a Windows machine. Below is a summary of a few issues that I have had, and then overcame, to get working system.
 <ol>
