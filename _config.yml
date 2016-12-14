@@ -1,2 +1,3 @@
 name: Ian Nisbet, Developer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
