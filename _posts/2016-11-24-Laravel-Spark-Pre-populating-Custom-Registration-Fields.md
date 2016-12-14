@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: Laravel Spark - Pre-populating Custom Registration Fields
+date: 2016-11-24
 ---
 The Laravel Spark <a href="https://spark.laravel.com/docs/3.0/adding-registration-fields" target="_blank">documentation</a> explains how to add additional registration fields.
 
