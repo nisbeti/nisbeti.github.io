@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: Selenium Testing Laravel Spark
+date: 2016-12-02
 ---
 
 It almost feels like a waste of time, now that Taylor tweeted a hint that he'd integrate Selenium testing into Laravel, but in the meantime, this is what I have been doing.
