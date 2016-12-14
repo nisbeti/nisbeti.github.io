@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Updating Laravel Spark Views
 ---
 
