@@ -1,3 +1,7 @@
+---
+layout:default
+title:Installing Laravel Homestead on Windows 7
+---
 Just following the <a href="https://laravel.com/docs/5.3/homestead" target="_blank">Laravel Homestead Installation Instructions</a> will not be enough, if using a Windows machine. Below is a summary of a few issues that I have had, and then overcame, to get working system.
 <ol>
 	<li>Make sure that your machine has Virtualisation enabled in the BIOS. I found <a href="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/5/html/Virtualization/sect-Virtualization-Troubleshooting-Enabling_Intel_VT_and_AMD_V_virtualization_hardware_extensions_in_BIOS.html" target="_blank">this article</a> useful. Without this, your VirtualBox will probably not work. If you cannot enable this, then you probably won't be able to run VirtualBox successfully.</li>
