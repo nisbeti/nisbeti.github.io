@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Testing Laravel Resource Controllers
 ---
 When testing a Laravel Resource Controller, here are a few tips.
