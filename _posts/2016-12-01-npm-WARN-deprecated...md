@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: npm WARN deprecated ...
+date: 2016-12-01
 ---
 When running ```npm install``` with Laravel, we often see these Warnings:
 
