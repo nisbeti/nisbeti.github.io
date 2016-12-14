@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Getting Slack Tokens"
+date: 2015-04-14
+---
 It is not straight forward to get a token with Slack. The expectation is that you write an OAuth client to get the token, but it is possible to get it manually. These are the steps I followed:
 
 You should already have an account and a channel set up that you want to send error messages to.
