@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: Installing Laravel Valet on Windows 7
+date: 2016-11-23
 ---
 Laravel Valet is officially a Mac developer tool,  but it also works well on Windows.
 
