@@ -1,9 +1,10 @@
-It almost feels like a waste of time, now that Taylor tweeted a hint that he'd integrate Selenium testing into Laravel, but in the meantime, this is what I have been doing.
-
 ---
 layout: default
 title: Selenium Testing Laravel Spark
 ---
+
+It almost feels like a waste of time, now that Taylor tweeted a hint that he'd integrate Selenium testing into Laravel, but in the meantime, this is what I have been doing.
+
 First, I install the package [https://github.com/Modelizer/Selenium](https://github.com/Modelizer/Selenium) which is awsome.
 
 Then I write a test, as follows:
