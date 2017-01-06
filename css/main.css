@@ -43,6 +43,7 @@ ul.posts li {
 }
 
 ul li:before {
+    
   content: ".";
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 13px;
